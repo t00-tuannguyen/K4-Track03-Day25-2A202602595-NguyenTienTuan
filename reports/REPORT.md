@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Nguyễn Tiến Tuấn — MSV 2A202602595  **Commit:** (điền sau khi commit)  **Điểm tự động (`make grade`):** 84 / 88
+**Họ tên / nhóm:** Nguyễn Tiến Tuấn — MSV 2A202602595  **Commit:** 08bf396  **Điểm tự động (`make grade`):** 84 / 88
 (4 điểm còn lại là dữ liệu SLO ẩn do giảng viên chấm; trên dữ liệu public Part E PASS.)
 
 > Mọi số liệu lấy từ `reports/gameday/*.json`, `reports/cache/*.json`, `reports/workflows.json`, `reports/slo.json`
